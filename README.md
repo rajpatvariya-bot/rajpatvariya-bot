@@ -105,16 +105,17 @@ Developing a system focused on detecting manipulated or deepfake faces during li
 
 <!-- ================= CURRENT LEARNING ================= -->
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Exploring
 
-- Java and Data Structures & Algorithms
-- Advanced JavaScript concepts
-- Backend Development with Node.js and Express.js
-- MongoDB and Database Management
-- MERN Stack Development
-- Software Engineering and Problem Solving
+- ☕ **Advanced Java & DSA** – Improving problem-solving skills, algorithmic thinking and optimized coding.
+- ⚛️ **React.js** – Building interactive and component-based frontend applications.
+- 🚀 **Full-Stack Development** – Strengthening my ability to build complete MERN applications.
+- 🤖 **AI-Based Development** – Exploring deepfake detection techniques for real-time video calls.
+- 🛡️ **Deepfake Detection System** – Currently developing a project focused on identifying manipulated faces during live video communication.
 
----
+### 🎯 Current Focus
+Transforming my technical knowledge into practical projects, writing optimized code and developing real-world software solutions.
+
 
 <!-- ================= PROJECTS ================= -->
 
