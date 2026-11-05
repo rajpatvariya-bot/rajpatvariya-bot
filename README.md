@@ -142,43 +142,9 @@ Developing a system focused on detecting manipulated or deepfake faces during li
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajpatvariya-bot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=rajpatvariya-bot&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatvariya-bot&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 <!-- ================= ACTIVITY GRAPH ================= -->
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpatvariya-bot&bg_color=0d1117&color=00D9FF&line=0077B6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 <!-- ================= TROPHIES ================= -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajpatvariya-bot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
 
 <!-- ================= SNAKE ANIMATION ================= -->
 
